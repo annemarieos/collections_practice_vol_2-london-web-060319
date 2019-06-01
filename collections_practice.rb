@@ -71,3 +71,5 @@ def merge_data(arr1, arr2)
     new_prop_hash
   end
 end
+
+def find_cool(array)
