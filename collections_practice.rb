@@ -22,6 +22,6 @@ def begins_with_r(array)
  end 
  
  def contain_a(array)
-   flag = true 
+   container = []
    array.each do |element|
      flag = 
