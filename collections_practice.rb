@@ -32,4 +32,4 @@ def begins_with_r(array)
  def first_wa(array)
    first_wa = NIL
    array.each do |element|
-     
+     if element.match
