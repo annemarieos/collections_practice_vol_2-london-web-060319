@@ -43,4 +43,4 @@ def begins_with_r(array)
    def remove_non_strings(array)
      non_strings = []
      array.each do |element|
-       
+       non_strings << 
