@@ -20,3 +20,5 @@ def begins_with_r(array)
   end 
  flag 
  end 
+ 
+ def contain_a
