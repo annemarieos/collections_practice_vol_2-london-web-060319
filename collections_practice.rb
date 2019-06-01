@@ -30,4 +30,5 @@ def begins_with_r(array)
  end 
  
  def first_wa(array)
+   first_wa = NIL
    
