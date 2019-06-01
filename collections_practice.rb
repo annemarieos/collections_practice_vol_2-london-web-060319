@@ -28,3 +28,6 @@ def begins_with_r(array)
    end 
    container 
  end 
+ 
+ def first_wa(array)
+   
