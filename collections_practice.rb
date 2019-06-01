@@ -75,7 +75,7 @@ end
 def find_cool(array)
   cool_hashes = []
   array.each do |element|
-      cool_hash << element if element[:temperature] == "cool"
+      cool_hashes << element if element[:temperature] == "cool"
   end
-  cool_hash
+  cool_hashes
 end
