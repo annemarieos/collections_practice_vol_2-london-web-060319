@@ -44,3 +44,6 @@ def begins_with_r(array)
      non_strings = []
      array.each do |element|
        non_strings << element if element.is_a?(String)
+     end 
+     non_strings
+   end 
