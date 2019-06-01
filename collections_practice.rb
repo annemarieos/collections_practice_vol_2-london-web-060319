@@ -59,3 +59,5 @@ def begins_with_r(array)
     end
   end.uniq
 end
+
+def merge_data()
