@@ -16,4 +16,4 @@ end
 def begins_with_r(array)
  flag = true 
  array.each do |element|
-   flag = false if element[0] = "s"
+   flag = false if element[0] != "r"
