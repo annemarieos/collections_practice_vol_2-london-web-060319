@@ -15,4 +15,4 @@ end
 
 def begins_with_r(array)
  flag = true 
- 
+ array.each do |
