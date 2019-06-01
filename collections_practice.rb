@@ -33,3 +33,7 @@ def begins_with_r(array)
    first_wa = NIL
    array.each do |element|
      if element.match(/wa/)
+       first_wa = element
+     end 
+     first_wa
+   end 
