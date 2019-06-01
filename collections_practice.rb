@@ -47,3 +47,5 @@ def begins_with_r(array)
      end 
      non_strings
    end 
+   
+   def count_elements(array)
