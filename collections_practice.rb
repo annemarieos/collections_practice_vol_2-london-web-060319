@@ -24,4 +24,4 @@ def begins_with_r(array)
  def contain_a(array)
    container = []
    array.each do |element|
-     flag = 
+     
