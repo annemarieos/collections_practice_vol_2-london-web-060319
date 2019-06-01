@@ -36,5 +36,6 @@ def begins_with_r(array)
        first_wa = element
        break 
      end 
+   end 
      first_wa
    end 
