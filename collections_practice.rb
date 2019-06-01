@@ -34,6 +34,7 @@ def begins_with_r(array)
    array.each do |element|
      if element.match(/wa/)
        first_wa = element
+       break 
      end 
      first_wa
    end 
