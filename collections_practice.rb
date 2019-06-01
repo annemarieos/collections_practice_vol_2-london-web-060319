@@ -14,5 +14,5 @@ def organize_schools(schools)
 end
 
 def begins_with_r(array)
-  tools_array = []
-  if 
+ flag = true 
+ 
