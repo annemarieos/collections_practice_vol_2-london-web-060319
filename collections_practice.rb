@@ -12,3 +12,7 @@ def organize_schools(schools)
   end
   organized_schools
 end
+
+def begins_with_r(array)
+  tools_array = []
+  if 
