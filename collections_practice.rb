@@ -60,4 +60,4 @@ def begins_with_r(array)
   end.uniq
 end
 
-def merge_data()
+def merge_data(arr1, arr2)
